@@ -1,1 +1,1 @@
-# GrociDish-Data
+# GrociDish-Grocery Generation Model
